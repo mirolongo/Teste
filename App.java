@@ -1,3 +1,4 @@
+
 package longo;
 import java.util.Scanner;
 public class App {
